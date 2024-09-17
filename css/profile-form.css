@@ -1,0 +1,26 @@
+.profile
+{
+    margin-top: 100px;
+}
+
+.profile-icon
+{
+    width: 30%;
+    margin-right: 2%;
+}
+
+.profile-detail
+{
+    width: 68%;
+}
+
+#imageView
+{
+    width: 170px;
+    height: 170px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    object-fit: cover;
+}

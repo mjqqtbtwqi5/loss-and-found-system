@@ -1,0 +1,42 @@
+.container
+{
+    margin-top: 50px;
+    width: 1320px;
+}
+
+.detail-border-bottom-0
+{
+    border-bottom: 0;
+}
+
+.respond-border-bottom-0
+{
+    border-top: 0;
+}
+
+.detail img
+{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+
+.card-head
+{
+    border-bottom: 2px solid #42ba96;
+    width: fit-content;
+}
+
+#icon
+{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#nick_name
+{
+    font-size: 16px;
+    vertical-align: middle;
+}

@@ -1,0 +1,24 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.txt-left
+{
+    text-align: left;
+}
+.txt-center
+{
+    text-align: center;
+}
+.txt-right
+{
+    text-align: right;
+}
+
+.vertical-middle
+{
+    vertical-align: middle;
+}
